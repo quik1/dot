@@ -1,0 +1,21 @@
+                    yad \
+                    --title="Git Cloner" \
+span font="24">     --text="Git Cloner" \
+                    --
+                    --form \                                                         --form\
+                    --field="Link To Clone:CB" \                                     --field="Alternate Clone Directory":CBE \
+                    --field="Link To Clone:CB" \                                     --field="Alternate Clone Directory":CBE \
+                    --field="Link To Clone:CB" \                                     --field="Alternate Clone Directory":CBE \
+                    --field="Link To Clone:CB" \                                     --field="Alternate Clone Directory":CBE \
+                    --field="Link To Clone:CB" \                                     --field="Alternate Clone Directory":CBE \
+                    --field="Link To Clone:CB" \                                     --field="Alternate Clone Directory":CBE \
+                    --field="Link To Clone:CB" \                                     --field="Alternate Clone Directory":CBE \
+                    --field="Link To Clone:CB" \                                     --field="Alternate Clone Directory":CBE \
+                    --field="Link To Clone:CB" \                                     --field="Alternate Clone Directory":CBE \
+                    --field="Link To Clone:CB" \                                     --field="Alternate Clone Directory":CBE \
+
+
+                    --button="gtk-Cancel" \
+                    --button="gtk-Stop-Cloning:0" \
+                    --button="gtk-Clone:1"
+write me something that goes with my gui the app needs to be able to git clone the users seletion rather that be on page on folder on the entire directory it should clone what the user species it shood be able to download from any Git website git clone should be hard coded so the user does have to type it it {IT GETS EXTREMELY FRUSTRTING AND REPTIVE TRUST ME I KNOW}
